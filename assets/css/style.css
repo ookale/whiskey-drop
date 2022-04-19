@@ -1,3 +1,14 @@
 body {
     font-family: "Roboto", sans-serif;
+    background-color: blue;
+}
+
+.callout-container{
+    height: 100vh;
+
+    background: url("../images/hero.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
